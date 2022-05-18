@@ -17,6 +17,8 @@ baseline 进行图像分割。
 
 ### 【实验结果】
 ![image](https://user-images.githubusercontent.com/84648756/169022539-1def4ce6-b093-4019-a1ff-224c69140f58.png)
+
+### 【模型预测可视化结果】
 ![image](https://user-images.githubusercontent.com/84648756/169022605-818a8659-7417-4cc8-b54c-9e4826f3e581.png)
 
 
